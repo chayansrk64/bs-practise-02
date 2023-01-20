@@ -1,0 +1,30 @@
+.custom-carousel-btn{
+    background-color: rgba(226, 134, 134, 0.795);
+    width: 4rem;
+    height: 3rem;
+}
+.lists{
+    margin-top: 50px;
+}
+.col-1{
+    margin-bottom: 40px;
+}
+.list{
+    display: flex; 
+    list-style-type: none; 
+}
+.list li a{
+    text-decoration: none;
+    color: white;
+    margin-left: 20px; 
+}
+.cols{
+    margin-top: 50px;
+}
+.copy{
+    margin-left: 50px;
+}
+.app{
+    text-align:center;
+    margin-top: 50px;
+}
